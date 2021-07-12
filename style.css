@@ -1,0 +1,8 @@
+button {
+    color: #c4ad2c;
+    font-size: 30px;
+}
+
+::placeholder {
+    font-size: 17px;
+}
